@@ -4,24 +4,24 @@
 const julio = {
   pronouns: "He | Him",
   languages: ["Javascript", "Typescript", "Python", "C", "C#", "Java"],
-  libraries: ["React", "Redux", "Node", "Angular", "Flask", "Numpy", "Pandas"],
+  libraries: ["Redux", "Numpy", "Pandas"],
   technologies: {
     mobile: ["ReactNative"],
     frontEnd: {
-      js: ["React", "Angular"],
+      ts: ["React", "Angular"],
       css: ["MaterialUI", "PrimeReact", "Bootstrap"],
     },
     backEnd: {
       ts: ["Node", "Express", "Typeorm"],
-      python: ["Flask", "SQLAchemy"],
-      csharp: ["ASP"],
+      py: ["Flask", "SQLAchemy"],
+      cs: ["ASP"],
     },
     devOps: ["Azure", "Docker", "GCP", "Auth0"],
     databases: ["MongoDB", "MSSQL"],
     ML: ["PyTorch", "Fastai", "Transformers"],
     misc: ["Firebase", "Socketio", "OAuth"],
   },
-  learning: ["Go", "F#", "Kubernetes"],
+  learning: ["Go", "GraphQL", "Kubernetes"],
 };
 ```
 
