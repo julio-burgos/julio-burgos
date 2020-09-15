@@ -9,12 +9,11 @@ const julio = {
     mobile: ["ReactNative"],
     frontEnd: {
       ts: ["React", "Angular"],
-      css: ["MaterialUI", "PrimeReact", "Bootstrap"],
+      css: ["MaterialUI", "Bootstrap"],
     },
     backEnd: {
       ts: ["Node", "Express", "Typeorm"],
-      py: ["Flask", "SQLAchemy"],
-      cs: ["ASP"],
+      py: ["Flask", "SQLAchemy"]
     },
     devOps: ["Azure", "Docker", "GCP", "Auth0"],
     databases: ["MongoDB", "MSSQL"],
