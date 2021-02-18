@@ -13,7 +13,7 @@ const julio = {
     },
     backEnd: {
       ts: ["Node", "Express", "Typeorm"],
-      py: ["Flask", "SQLAchemy"]
+      py: ["Django", "Flask"]
     },
     devOps: ["Azure", "Docker", "GCP", "Auth0"],
     databases: ["MongoDB", "MSSQL"],
