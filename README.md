@@ -3,24 +3,22 @@
 ```javascript
 const julio = {
   pronouns: "He | Him",
-  languages: ["Javascript", "Typescript", "Python", "C", "C#", "Java"],
+  languages: ["Javascript", "Typescript", "Python", "C", "C#", "Go"],
   libraries: ["Redux", "Numpy", "Pandas"],
   technologies: {
     mobile: ["ReactNative"],
     frontEnd: {
-      ts: ["React", "Angular"],
-      css: ["MaterialUI", "Bootstrap"],
+      frameworks: ["React", "Angular"],
+   
     },
     backEnd: {
-      ts: ["Node", "Express", "Typeorm"],
+      ts: ["Express"],
       py: ["Django", "Flask"]
     },
-    devOps: ["Azure", "Docker", "GCP", "Auth0"],
-    databases: ["MongoDB", "MSSQL"],
+    databases: ["MongoDB", "PostgresSQL"],
     ML: ["PyTorch", "Fastai", "Transformers"],
-    misc: ["Firebase", "Socketio", "OAuth"],
   },
-  learning: ["Go", "GraphQL", "Kubernetes"],
+  learning: [, "GraphQL", "Kubernetes"],
 };
 ```
 
