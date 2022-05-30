@@ -4,28 +4,27 @@
 const julio = {
   pronouns: "He | Him",
   languages: ["Javascript", "Typescript", "Python", "C", "C#", "Go"],
-  libraries: ["Redux", "Numpy", "Pandas"],
   technologies: {
     mobile: ["ReactNative"],
     frontEnd: {
-      frameworks: ["React", "Angular"],
+      frameworks: ["React", "Svelte"],
    
     },
     backEnd: {
-      ts: ["Express"],
-      py: ["Django", "Flask"]
+      ts: ["Express","Nextjs"],
+      py: ["Django", "FastApi"]
     },
     databases: ["MongoDB", "PostgresSQL"],
     ML: ["PyTorch", "Fastai", "Transformers"],
   },
-  learning: [, "GraphQL", "Kubernetes"],
+ 
 };
 ```
 
 <h2 align="center">  
 🤔 Who am I </h2> 
 <ul>
-<li> <strong>Description:</strong> I'm 25 years old, and I live in Barcelona.</li>
+<li> <strong>Description:</strong> I'm  years old, and I live in Barcelona.</li>
 <li> <strong>Studies:</strong> I have studied BSc and MsC on Telecommunication at Universitat Politècnica de Catalunya.</li>
 <li> <strong>Interests:</strong> Web Development, Machine Learning and Signal Processing.</li>
 <li> <strong>Misc:</strong> Vscode lover and a little addicted to ☕.</li>
