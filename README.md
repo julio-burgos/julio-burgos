@@ -2,16 +2,17 @@
 
 ```javascript
 const julio = {
-  pronouns: "He | Him",
-  languages: ["Javascript", "Typescript", "Python", "C", "C#", "Go"],
+
+  languages: ["JS/TS", "Python", "C", "C#", "Go"],
   technologies: {
-    mobile: ["ReactNative"],
+    mobile: ["ReactNative","SwiftUI"],
     frontEnd: {
       frameworks: ["React", "Svelte"],
    
     },
     backEnd: {
       ts: ["Express","Nextjs"],
+      cs:["asp"]
       py: ["Django", "FastApi"]
     },
     databases: ["MongoDB", "PostgresSQL"],
@@ -24,7 +25,7 @@ const julio = {
 <h2 align="center">  
 🤔 Who am I </h2> 
 <ul>
-<li> <strong>Description:</strong> I'm  years old, and I live in Barcelona.</li>
+<li> <strong>Description:</strong> I'm 27 years old, and I live in Barcelona.</li>
 <li> <strong>Studies:</strong> I have studied BSc and MsC on Telecommunication at Universitat Politècnica de Catalunya.</li>
 <li> <strong>Interests:</strong> Web Development, Machine Learning and Signal Processing.</li>
 <li> <strong>Misc:</strong> Vscode lover and a little addicted to ☕.</li>
