@@ -1,18 +1,17 @@
  <h2 align="center">  👨‍💻 Tech-Stack </h2>
 
 ```javascript
-const julio = {
+={
 
   languages: ["JS/TS", "Python", "C", "C#", "Go"],
   technologies: {
-    mobile: ["ReactNative","SwiftUI"],
     frontEnd: {
-      frameworks: ["React", "Svelte"],
+      frameworks: ["React", "Angular","Svelte"],
    
     },
     backEnd: {
-      ts: ["Express","Nextjs"],
-      cs:["asp"]
+      ts: ["Express","Nextjs","Sveltekit","Astro"],
+      go:["gin","vanilla"],
       py: ["Django", "FastApi"]
     },
     databases: ["MongoDB", "PostgresSQL"],
@@ -25,11 +24,12 @@ const julio = {
 <h2 align="center">  
 🤔 Who am I </h2> 
 <ul>
-<li> <strong>Description:</strong> I'm 27 years old, and I live in Barcelona.</li>
+<li> <strong>Description:</strong> I'm 28 years old, and I live in Barcelona.</li>
 <li> <strong>Studies:</strong> I have studied BSc and MsC on Telecommunication at Universitat Politècnica de Catalunya.</li>
 <li> <strong>Interests:</strong> Web Development, Machine Learning and Signal Processing.</li>
 <li> <strong>Misc:</strong> Vscode lover and a little addicted to ☕.</li>
 </ul>
+
 
  <h2 align="center"> 👥 Contact Info </h2>
  <p align="center">
